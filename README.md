@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋
+
+I am a PhD student at the Department for Animal Evolution and Biodiversity at the University of Göttingen. 
+In my research, I am generating a phylogeny for the animal family Nereididae (Annelida), which comprises
+over 700 described species.
 
 <!--
 **fethalen/fethalen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
