@@ -4,6 +4,12 @@ I am a PhD student at the Department for Animal Evolution and Biodiversity at th
 In my research, I am generating a phylogeny for the animal family Nereididae (Annelida), which comprises
 over 700 described species.
 
+### Bioinformatics Software
+
+* [PhyloPyPruner](https://gitlab.com/fethalen/phylopypruner) — a tree-based orthology inference program with decontamination filters
+* [Patchwork](https://github.com/fethalen/Patchwork) — stitches patchy sequence fragments together based on a local alignment search (under construction 🚧)
+* [Better FASTA Grep](https://github.com/fethalen/better_fasta_grep) — a Grep-like tool for searching and retrieving sequence records
+
 <!--
 **fethalen/fethalen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
