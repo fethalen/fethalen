@@ -4,10 +4,8 @@
 </p>
 
 I am a PhD student working at the Department for Animal Evolution and Biodiversity at the University of Göttingen. 
-In my research, I am generating a phylogeny for the animal family Nereididae (Annelida), which comprises
-over 700 described species.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fethalen&layout=compact)](https://github.com/fethalen)
+In my research, I am working on generating a phylogeny for the animal family Nereididae (Annelida), which comprises
+over 700 described species. You can [read more about my research here](https://www.uni-goettingen.de/en/a+phylogenomic+analysis+of+nereididae+%28annelida%29/630219.html).
 
 ### Highlighted Work
 
@@ -20,3 +18,7 @@ over 700 described species.
 - I am fluent in English 🇬🇧
 - Ich spreche ein bisschen Deutsch 🇩🇪
 - Svenska 🇸🇪 är mitt modersmål
+
+### Technical Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fethalen&layout=compact)](https://github.com/fethalen)
