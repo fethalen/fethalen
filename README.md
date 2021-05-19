@@ -5,8 +5,6 @@ Department for Animal Evolution and Biodiversity at the University of Göttingen
 The goal of my project is to generate a phylogeny for the animal family Nereididae (Annelida), comprising
 over 700 described species. You can read more about my research at [the department's website](https://www.uni-goettingen.de/en/a+phylogenomic+analysis+of+nereididae+%28annelida%29/630219.html).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fethalen&layout=compact)](https://github.com/fethalen)
-
 ### Highlighted Work
 
 - [PhyloPyPruner](https://gitlab.com/fethalen/phylopypruner) — Tree-based orthology inference with decontamination filters and elaborate statistics
@@ -18,3 +16,5 @@ over 700 described species. You can read more about my research at [the departme
 - I am fluent in English 🇬🇧
 - Ich spreche ein bisschen Deutsch 🇩🇪
 - Svenska 🇸🇪 är mitt modersmål
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fethalen&layout=compact)](https://github.com/fethalen)
