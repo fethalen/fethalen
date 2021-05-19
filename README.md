@@ -22,4 +22,3 @@ These are the programming languages I work in most often:
 - I am fluent in English 🇬🇧
 - Ich spreche ein bisschen Deutsch 🇩🇪
 - Svenska 🇸🇪 är mitt modersmål
-- 
