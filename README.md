@@ -1,14 +1,14 @@
-### Hello 👋
+### Hello there 👋
 
 I am a PhD student at the Department for Animal Evolution and Biodiversity at the University of Göttingen. 
 In my research, I am generating a phylogeny for the animal family Nereididae (Annelida), which comprises
 over 700 described species.
 
-### Bioinformatics Software
+### Highlighted Work
 
-* [PhyloPyPruner](https://gitlab.com/fethalen/phylopypruner) — a tree-based orthology inference program with decontamination filters
-* [Patchwork](https://github.com/fethalen/Patchwork) — stitches patchy sequence fragments together based on a local alignment search (under construction 🚧)
-* [Better FASTA Grep](https://github.com/fethalen/better_fasta_grep) — a Grep-like tool for searching and retrieving sequence records
+* [PhyloPyPruner](https://gitlab.com/fethalen/phylopypruner) — Tree-based orthology inference with decontamination filters and elaborate statistics
+* [Patchwork](https://github.com/fethalen/Patchwork) — Stitches patchy sequence fragments together based on a local alignment search (under construction 🚧)
+* [Better FASTA Grep](https://github.com/fethalen/better_fasta_grep) — Grep-like tool for searching and retrieving sequence records
 
 <!--
 **fethalen/fethalen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
