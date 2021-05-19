@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am a PhD student at the Department for Animal Evolution and Biodiversity at the University of Göttingen. 
+I am a PhD student working at the Department for Animal Evolution and Biodiversity at the University of Göttingen. 
 In my research, I am generating a phylogeny for the animal family Nereididae (Annelida), which comprises
 over 700 described species.
 
