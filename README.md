@@ -4,7 +4,7 @@
 </p>
 
 I am a PhD student working at the Department for Animal Evolution and Biodiversity at the University of Göttingen. 
-In my research, I am working on generating a phylogeny for the animal family Nereididae (Annelida), which comprises
+In my research, I will generate a phylogeny for the animal family Nereididae (Annelida), comprising
 over 700 described species. You can [read more about my research here](https://www.uni-goettingen.de/en/a+phylogenomic+analysis+of+nereididae+%28annelida%29/630219.html).
 
 These are the programming languages I work in most often:
