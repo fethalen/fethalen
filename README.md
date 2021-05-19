@@ -1,4 +1,8 @@
-### Hello there, I am Felix Thalén 👋
+<p align="center">
+ <img width="100px" src="https://github.com/hendrasob/hendrasob/blob/master/assets/github.gif" align="center" alt="Hendrasob's GitHub Readme" />
+ <h2 align="center">Felix Thalén</h2>
+ <p align="center">PhD Student and Bioinformatician</p>
+</p>
 
 I am a PhD student working at the Department for Animal Evolution and Biodiversity at the University of Göttingen. 
 In my research, I am generating a phylogeny for the animal family Nereididae (Annelida), which comprises
