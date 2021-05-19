@@ -7,6 +7,10 @@ I am a PhD student working at the Department for Animal Evolution and Biodiversi
 In my research, I am working on generating a phylogeny for the animal family Nereididae (Annelida), which comprises
 over 700 described species. You can [read more about my research here](https://www.uni-goettingen.de/en/a+phylogenomic+analysis+of+nereididae+%28annelida%29/630219.html).
 
+These are the programming languages I work in most often:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fethalen&layout=compact)](https://github.com/fethalen)
+
 ### Highlighted Work
 
 - [PhyloPyPruner](https://gitlab.com/fethalen/phylopypruner) — Tree-based orthology inference with decontamination filters and elaborate statistics
@@ -18,7 +22,4 @@ over 700 described species. You can [read more about my research here](https://w
 - I am fluent in English 🇬🇧
 - Ich spreche ein bisschen Deutsch 🇩🇪
 - Svenska 🇸🇪 är mitt modersmål
-
-### Technical Skills
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fethalen&layout=compact)](https://github.com/fethalen)
+- 
