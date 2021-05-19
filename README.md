@@ -1,6 +1,6 @@
 <p align="center">
  <h2 align="center">Felix Thalén</h2>
- <p align="center">PhD Student and Bioinformatician</p>
+ <p align="center">PhD Student</p>
 </p>
 
 I am a PhD student working at the Department for Animal Evolution and Biodiversity at the University of Göttingen. 
