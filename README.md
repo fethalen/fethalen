@@ -1,4 +1,4 @@
-# Hello, I'm Felix 👋🏼
+# Hello, I'm Felix 👋🏻
 
 I am a bioinformatician and develop software used for phylogenomics work. I am doing my PhD at the 
 Department for Animal Evolution and Biodiversity at the University of Göttingen.
