@@ -3,11 +3,11 @@
  <p align="center">PhD Student</p>
 </p>
 
-I am a PhD student working at the Department for Animal Evolution and Biodiversity at the University of Göttingen. 
-In my research, I will generate a phylogeny for the animal family Nereididae (Annelida), comprising
-over 700 described species. You can [read more about my research here](https://www.uni-goettingen.de/en/a+phylogenomic+analysis+of+nereididae+%28annelida%29/630219.html).
+I am doing my PhD at the Department for Animal Evolution and Biodiversity at the University of Göttingen.
+The goal of my project is to generate a phylogeny for the animal family Nereididae (Annelida), comprising
+over 700 described species.
 
-These are the programming languages I work in most often:
+I develop software used for phylogenomics work. These are the programming languages I work in most often:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fethalen&layout=compact)](https://github.com/fethalen)
 
