@@ -1,9 +1,10 @@
 # Hello, I'm Felix 👋🏻
 
-I'm a bioinformatician who develops software used in phylogenomics research. I'm currently doing a PhD in the 
-Department for Animal Evolution and Biodiversity at the University of Göttingen.
-The goal of my project is to generate a phylogeny for the animal family Nereididae (Annelida), comprising
-over 700 described species. You can read more about my research at [the department's website](https://www.uni-goettingen.de/en/a+phylogenomic+analysis+of+nereididae+%28annelida%29/630219.html).
+I am a PhD student at [the IMPRS for Genome Science](https://www.uni-goettingen.de/de/556628.html), working in
+[the Department for Animal Evolution & Biodiversity](https://github.com/Animal-Evolution-and-Biodiversity) 
+I develop software used for phylogenomics research and am especially interested in the evolution of animals.
+In my research, I am generating a phylogeny for the animal family Nereididae (Annelida), a group comprising
+over 700 described species. You can read more about my research at [my department's website](https://www.uni-goettingen.de/en/a+phylogenomic+analysis+of+nereididae+%28annelida%29/630219.html).
 
 These are the programming languages that I write in most often:
 
