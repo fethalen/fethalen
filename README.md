@@ -1,8 +1,8 @@
 # Hello, I'm Felix 👋🏻
 
 I'm a PhD student in [the IMPRS for Genome Science](https://www.uni-goettingen.de/de/556628.html), working at
-[the Department for Animal Evolution and Biodiversity](https://github.com/Animal-Evolution-and-Biodiversity) 
-I develop software used for phylogenomics research and am especially interested in the evolution of animals.
+[the Department for Animal Evolution and Biodiversity](https://github.com/Animal-Evolution-and-Biodiversity)
+in Göttingen, Germany. I develop software used for phylogenomics research and am especially interested in the evolution of animals.
 In my research, I am constructing a phylogeny for the animal family Nereididae (Annelida), a group comprising
 over 700 described species. You can read more about my research at [my department's website](https://www.uni-goettingen.de/en/a+phylogenomic+analysis+of+nereididae+%28annelida%29/630219.html).
 
