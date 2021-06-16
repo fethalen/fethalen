@@ -1,6 +1,6 @@
 # Hello, I'm Felix 👋🏻
 
-I'm a PhD student working at [the Department for Animal Evolution and Biodiversity](https://github.com/Animal-Evolution-and-Biodiversity) in Göttingen, Germany. I write software used in phylogenomic studies. I am especially interested in phylogenetics and animal evolution. For my PhD project, I am constructing a phylogeny for the animal family Nereididae (Annelida), a lineage comprising over 700 described species.
+I'm a PhD student working at [the Department for Animal Evolution and Biodiversity](https://github.com/Animal-Evolution-and-Biodiversity) in Göttingen, Germany. I write software used in phylogenomic studies. I am especially interested in phylogenetics and animal evolution. For my PhD project, I am reconstructing a phylogeny for the animal family Nereididae (Annelida), a lineage comprising over 700 described species.
 
 These are the programming languages that I write in most often:
 
