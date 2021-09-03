@@ -9,7 +9,7 @@ These are the programming languages that I write in most often:
 ### Highlighted Work
 
 - [PhyloPyPruner](https://gitlab.com/fethalen/phylopypruner) — Tree-based orthology inference with decontamination filters and elaborate statistics
-- [Patchwork](https://github.com/fethalen/Patchwork) — Alignment-based exon retrieval and concatenation with phylogenomic applications  (under construction 🚧)
+- [Patchwork](https://github.com/fethalen/Patchwork) — Alignment-based retrieval and concatenation of phylogenomic markers from whole genome sequencing data (under construction 🚧)
 - [Better FASTA Grep](https://github.com/fethalen/better_fasta_grep) — Grep-like tool for searching and retrieving sequence records
 
 ### Languages
