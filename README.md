@@ -15,6 +15,6 @@ These are the programming languages that I write in most often:
 
 ### Languages
 
-- I am fluent in English 🇬🇧
-- Ich spreche ein bisschen Deutsch 🇩🇪
-- Svenska 🇸🇪 är mitt modersmål
+- English (fluent)
+- Swedish (native)
+- German (beginner)
