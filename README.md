@@ -1,12 +1,15 @@
 # Hello, I'm Felix 👋🏻
 
-I'm a Ph.D. student working at [the Department for Animal Evolution and Biodiversity](https://github.com/Animal-Evolution-and-Biodiversity) in Göttingen, Germany. I write software used in phylogenomic studies and am especially interested in animal evolution. For my PhD project, I'm reconstructing a phylogeny for the animal family Nereididae (Annelida), a lineage comprising over 700 described species.
+I'm a PhD student in The International Max Planck Research School for Genome Science (IMPRS-GS)
+at the University of Göttingen, Germany. My research interests center around the development 
+of novel methods for assisting large-scale phylogenetic studies. I particularly enjoy data analysis
+as well as software development, and some of the tools that I've developed are presented here.
 
-### Highlighted Work
+### Projects
 
-- [Patchwork](https://github.com/fethalen/Patchwork) — An alignment-based program for mining phylogenetic markers from whole-genome sequencing data
+- [Patchwork](https://github.com/fethalen/Patchwork) — A reference- and alignment-based program for mining phylogenetic markers from whole-genome sequencing (WGS) data
 - [PhyloPyPruner](https://github.com/fethalen/phylopypruner) — Tree-based orthology inference with decontamination filters and elaborate statistics
-- [Eukaryotic genome assembly (EGA)](https://github.com/ThiloSchulze/eukaryotic-genome-assembly) — A pipeline for performing and evaluating eukaryotic genome assemblies
+- [Eukaryotic genome assembly (EGA)](https://github.com/ThiloSchulze/eukaryotic-genome-assembly) — Pipeline for assembling and evaluating short-read Illumina gDNA data of eukaryotic origin
 - [Better FASTA Grep](https://github.com/fethalen/better_fasta_grep) — Grep-like tool for searching and retrieving sequence records
 
 ### Languages
