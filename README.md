@@ -2,10 +2,6 @@
 
 I'm a Ph.D. student working at [the Department for Animal Evolution and Biodiversity](https://github.com/Animal-Evolution-and-Biodiversity) in Göttingen, Germany. I write software used in phylogenomic studies and am especially interested in animal evolution. For my PhD project, I'm reconstructing a phylogeny for the animal family Nereididae (Annelida), a lineage comprising over 700 described species.
 
-These are the programming languages that I write in most often:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fethalen&layout=compact)](https://github.com/fethalen)
-
 ### Highlighted Work
 
 - [Patchwork](https://github.com/fethalen/Patchwork) — An alignment-based program for mining phylogenetic markers from whole-genome sequencing data
