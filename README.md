@@ -2,8 +2,9 @@
 
 I'm a PhD student in The International Max Planck Research School for Genome Science (IMPRS-GS)
 at the University of Göttingen, Germany. My research interests center around the development 
-of novel methods for assisting in large-scale phylogenetic studies. I enjoy data analysis
-as well as software development, and some of the tools that I've developed are presented here.
+of novel methods for assisting in large-scale phylogenetic studies, although my interests in
+Bioinformatics are very broad. I enjoy data analysis as well as software development, and some of 
+the tools that I've developed are presented here.
 
 ### Projects
 
