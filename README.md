@@ -12,8 +12,8 @@ as well as software development, and some of the tools that I've developed are p
 - [Eukaryotic genome assembly (EGA)](https://github.com/ThiloSchulze/eukaryotic-genome-assembly) — Pipeline for assembling and evaluating short-read Illumina gDNA data of eukaryotic origin
 - [Better FASTA Grep](https://github.com/fethalen/better_fasta_grep) — Grep-like tool for searching and retrieving sequence records
 
-### Languages
+### Language skills
 
 - English (fluent)
 - Swedish (native)
-- German (beginner)
+- German (conversational)
