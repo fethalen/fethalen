@@ -16,4 +16,4 @@ as well as software development, and some of the tools that I've developed are p
 
 - English (fluent)
 - Swedish (native)
-- German (conversational)
+- German (beginner)
