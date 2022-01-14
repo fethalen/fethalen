@@ -1,4 +1,4 @@
-### Hello, I'm Felix 👋🏻
+# Hello, I'm Felix 👋🏻
 
 I'm a PhD student in The International Max Planck Research School for Genome Science (IMPRS-GS)
 at the University of Göttingen, Germany. My research interests center around the development 
