@@ -1,4 +1,4 @@
-# Hello, I'm Felix 👋🏻
+### Hello, I'm Felix 👋🏻
 
 I'm a PhD student in The International Max Planck Research School for Genome Science (IMPRS-GS)
 at the University of Göttingen, Germany. My research interests center around the development 
@@ -12,6 +12,10 @@ I present some of the pipelines and tools that I've developed over the years.
 - [PhyloPyPruner](https://github.com/fethalen/phylopypruner) — Tree-based orthology inference with decontamination filters and elaborate statistics
 - [Eukaryotic genome assembly (EGA)](https://github.com/ThiloSchulze/eukaryotic-genome-assembly) — Pipeline for assembling and evaluating short-read Illumina gDNA data of eukaryotic origin
 - [Better FASTA Grep](https://github.com/fethalen/better_fasta_grep) — Grep-like tool for searching and retrieving sequence records
+
+### Frequently used programming languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fethalen&layout=compact)](https://github.com/fethalen)
 
 ### Language skills
 
