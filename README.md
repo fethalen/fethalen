@@ -21,4 +21,3 @@ tools that I've developed over the years.
 - English (fluent)
 - Swedish (native)
 - German (conversational)
-- French (beginner)
