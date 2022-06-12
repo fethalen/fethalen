@@ -1,6 +1,6 @@
 # Hello, I'm Felix 👋🏻
 
-I'm a PhD student at The International Max Planck Research School for Genome Science (IMPRS-GS). 
+I'm a Bioinformatician at Cardio-CARE Davos in Switzerland.
 My research interests center around the development of novel methods for assisting in large-scale 
 phylogenetic studies but my interests within bioinformatics are broad. Here are some of the
 tools that I've developed over the years.
