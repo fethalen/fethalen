@@ -14,9 +14,3 @@ tools that I've developed over the years.
 ### Frequently used programming languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fethalen&layout=compact)](https://github.com/fethalen)
-
-### Language skills
-
-- English (fluent)
-- Swedish (native)
-- German (conversational)
