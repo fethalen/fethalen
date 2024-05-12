@@ -9,7 +9,6 @@ tools that I've developed over the years.
 
 - [Patchwork](https://github.com/fethalen/Patchwork) — An alignment-based program for mining phylogenetic markers from whole-genome sequencing data
 - [PhyloPyPruner](https://github.com/fethalen/phylopypruner) — Tree-based orthology inference with decontamination filters and elaborate statistics
-- [Eukaryotic genome assembly (EGA)](https://github.com/ThiloSchulze/eukaryotic-genome-assembly) — Pipeline for assembling and evaluating eukaryotic short-read data
 - [Better FASTA Grep](https://github.com/fethalen/better_fasta_grep) — Grep-like tool for searching and retrieving sequence records
 
 ### Frequently used programming languages
