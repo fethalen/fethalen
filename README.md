@@ -19,10 +19,9 @@ I have an interest in programming lanaguages and greatly value reproducibility i
 * 🇸🇪 Swedish
 * 🇩🇪 German (learning)
 
-### 📈 My overall statistics
+### 📈 My GitHub statistics
 
-![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=fethalen&include_all_commits=true)
-
-### ⌨️ Most used programming languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fethalen&layout=compact)](https://github.com/fethalen)
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats-one-bice.vercel.app/api?username=fethalen&include_all_commits=true">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=fethalen&layout=compact">
+</p>
