@@ -21,6 +21,6 @@ I have an interest in programming lanaguages and greatly value reproducibility i
 
 ![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=fethalen&include_all_commits=true)
 
-### 💻 Most used programming languages
+### ⌨️ My most used programming languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fethalen&layout=compact)](https://github.com/fethalen)
