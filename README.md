@@ -1,9 +1,11 @@
-# Hi there, I'm Felicia 👋🏻
+<h2 align="center">👋🏻 Hi there, I'm Felicia.</h2>
 
 I work as a Bioinformatician at Cardio-CARE in Davos, Switzerland. 
 Our research is centered on the genomics of cardiovascular disease, although my background is in animal evolution.
 Among other things, I am one of the main contributors to the GWAS pipeline used internally by our company.
 I have an interest in programming lanaguages and greatly value reproducibility in both research and scientific software.
+
+---
 
 ### 🚀 Selected projects
 
@@ -17,7 +19,7 @@ I have an interest in programming lanaguages and greatly value reproducibility i
 * 🇸🇪 Swedish
 * 🇩🇪 German (learning)
 
-### 📊 My overall statistics
+### 📈 My overall statistics
 
 ![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=fethalen&include_all_commits=true)
 
