@@ -5,8 +5,6 @@ Our research is centered on the genomics of cardiovascular disease, although my 
 Among other things, I am one of the main contributors to the GWAS pipeline used internally by our company.
 I have an interest in programming lanaguages and greatly value reproducibility in both research and scientific software.
 
----
-
 ### 🚀 Selected projects
 
 - **[Patchwork](https://github.com/fethalen/Patchwork):** Alignment-based mining of phylogenetic markers from whole-genome sequencing data
