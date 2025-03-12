@@ -3,7 +3,7 @@
 I work as a Bioinformatician at Cardio-CARE in Davos, Switzerland. 
 Our research is centered on the genomics of cardiovascular disease, although my background is in animal evolution.
 Among other things, I am one of the main contributors to the GWAS pipeline used internally by our company.
-I have an interest in programming lanaguages and greatly value reproducibility in both research and scientific software.
+I have an interest in programming languages and greatly value reproducibility in both research and scientific software.
 
 <details>
  <summary><big><big><strong>🌎 I can speak</strong></big></big> <sub>(click to expand)</sub></summary>
