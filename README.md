@@ -6,7 +6,7 @@ Among other things, I am one of the main contributors to the GWAS pipeline used 
 I have an interest in programming languages and greatly value reproducibility in both research and scientific software.
 
 <details>
- <summary><big><big><strong>🌎 I can speak</strong></big></big> <sub>(click to expand)</sub></summary>
+ <summary><big><big><strong>💬 I can speak</strong></big></big> <sub>(click to expand)</sub></summary>
 
 * 🇬🇧 English
 * 🇸🇪 Swedish
@@ -14,7 +14,7 @@ I have an interest in programming languages and greatly value reproducibility in
 </details>
 
 <details>
- <summary><big><big><strong>💼 Selected projects</strong></big></big> <sub>(click to expand)</sub></summary>
+ <summary><big><big><strong>👜 Selected projects</strong></big></big> <sub>(click to expand)</sub></summary>
 
 - **Patchwork:** Alignment-based mining of phylogenetic markers from whole-genome sequencing data.</br>
   [View Repository](https://github.com/fethalen/Patchwork)
