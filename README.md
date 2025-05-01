@@ -16,11 +16,11 @@ I have an interest in programming languages and greatly value reproducibility in
 <details>
  <summary><big><big><strong>🛠️ Selected projects</strong></big></big> <sub>(click to expand)</sub></summary>
 
-[**Patchwork**](https://github.com/fethalen/Patchwork): Alignment-based mining of phylogenetic markers from whole-genome sequencing data.
+[**Patchwork**](https://github.com/fethalen/Patchwork): Alignment-based mining of phylogenetic markers from whole-genome sequencing data
 
-[**PhyloPyPruner**](https://github.com/fethalen/phylopypruner): Tree-based orthology inference with decontamination filters and elaborate statistics.
+[**PhyloPyPruner**](https://github.com/fethalen/phylopypruner): Tree-based orthology inference with decontamination filters and elaborate statistics
  
-[**Better FASTA Grep**](https://github.com/fethalen/better_fasta_grep): Grep-like tool for searching and retrieving sequence records.
+[**Better FASTA Grep**](https://github.com/fethalen/better_fasta_grep): Grep-like tool for searching and retrieving sequence records
 </details>
 
 <details>
