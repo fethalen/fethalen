@@ -1,4 +1,4 @@
-<h2 align="center">$$\color{#c3236c}{\huge{\textbf{Hi there, I'm Felicia.}}}$$ 🫶</h2>
+<h2 align="center">$$\color{#c3236c}{\Large{\textbf{Hi there, I'm Felicia.}}}$$ 🫶</h2>
 
 I work as a Bioinformatician at Cardio-CARE in Davos, Switzerland. 
 Our research is centered on the genomics of cardiovascular disease, although my background is in animal evolution.
@@ -6,7 +6,7 @@ Among other things, I am one of the main contributors to the GWAS pipeline used 
 I have an interest in programming languages and greatly value reproducibility in both research and scientific software.
 
 <details>
- <summary>👜 $$\color{#c3236c}\large{\textbf{Highlighted work}}$$ <sub>(click to expand)</sub></summary></br>
+ <summary>👜 $$\color{#c3236c}\Large{\textbf{Highlighted work}}$$ <sub>(click to expand)</sub></summary></br>
 
 [**Patchwork**](https://github.com/fethalen/Patchwork): Alignment-based mining of phylogenetic markers from whole-genome sequencing data
 
@@ -16,7 +16,7 @@ I have an interest in programming languages and greatly value reproducibility in
 </details>
 
 <details>
- <summary><big><big><strong>💄 $\color{#c3236c}\large{\textbf{I speak}}$</strong></big></big> <sub>(click to expand)</sub></summary></br>
+ <summary><big><big><strong>💄 $\color{#c3236c}\Large{\textbf{I speak}}$</strong></big></big> <sub>(click to expand)</sub></summary></br>
 
 * 🇬🇧 English
 * 🇸🇪 Swedish
@@ -24,7 +24,7 @@ I have an interest in programming languages and greatly value reproducibility in
 </details>
 
 <details>
- <summary><big><big><strong>✨ $\color{#c3236c}\large{\textbf{My GitHub statistics}}$</strong></big></big> <sub>(click to expand)</sub></summary></br>
+ <summary><big><big><strong>✨ $\color{#c3236c}\Large{\textbf{My GitHub statistics}}$</strong></big></big> <sub>(click to expand)</sub></summary></br>
   
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats-one-bice.vercel.app/api?username=fethalen&include_all_commits=true">
