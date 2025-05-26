@@ -1,4 +1,4 @@
-<h2 align="center">$$\color{#c3236c}{\textbf{Hi there, I'm Felicia.}}$$ 🫶</h2>
+<h2 align="center">$$\color{#c3236c}{\huge{\textbf{Hi there, I'm Felicia.}}}$$ 🫶</h2>
 
 I work as a Bioinformatician at Cardio-CARE in Davos, Switzerland. 
 Our research is centered on the genomics of cardiovascular disease, although my background is in animal evolution.
