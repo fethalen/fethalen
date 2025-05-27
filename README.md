@@ -27,7 +27,7 @@ I have an interest in programming languages and greatly value reproducibility in
  <summary><big><big><strong>✨ $\color{#c3236c}\large{\textbf{My GitHub statistics}}$</strong></big></big> <sub>(click to expand)</sub></summary></br>
   
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats-one-bice.vercel.app/api?username=fethalen&title_color=c3236c&include_all_commits=true>
+  <img height="50%" width="auto" src ="https://github-readme-stats-one-bice.vercel.app/api?username=fethalen&title_color=c3236c&include_all_commits=true">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=fethalen&title_color=c3236c&layout=compact">
 </p>
 </details>
