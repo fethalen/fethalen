@@ -1,12 +1,10 @@
 <h2 align="center">Hi there, I'm Felicia. 🫶</h2>
 
-I work as a Bioinformatician at Cardio-CARE in Davos, Switzerland. 
-Our research is centered on the genomics of cardiovascular disease, although my background is in animal evolution.
-Among other things, I am one of the main contributors to the GWAS pipeline used internally by our company.
-I have an interest in programming languages and greatly value reproducibility in both research and scientific software.
+I work as a Research Software Engineer at ETH Zürich in Zürich, Switzerland.
+I have an interest in different programming languages and greatly value reproducibility in both research and scientific software.
 
 <details>
- <summary><big><strong>👜 Selected repositories</strong></big><sub> (click to expand)</sub></summary></br>
+ <summary><big><strong>💼 Selected repositories</strong></big><sub> (click to expand)</sub></summary></br>
 
 [**Patchwork**](https://github.com/fethalen/Patchwork): Alignment-based mining of phylogenetic markers from whole-genome sequencing data
 
@@ -16,7 +14,7 @@ I have an interest in programming languages and greatly value reproducibility in
 </details>
 
 <details>
- <summary><big><strong>💄 I speak</strong></big><sub> (click to expand)</sub></summary></br>
+ <summary><big><strong>💬 I speak</strong></big><sub> (click to expand)</sub></summary></br>
 
 * 🇬🇧 English
 * 🇸🇪 Swedish
@@ -24,7 +22,7 @@ I have an interest in programming languages and greatly value reproducibility in
 </details>
 
 <details>
- <summary><big><strong>✨ My GitHub statistics</strong></big><sub> (click to expand)</sub></summary></br>
+ <summary><big><strong>📈 My GitHub statistics</strong></big><sub> (click to expand)</sub></summary></br>
   
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats-one-bice.vercel.app/api?username=fethalen&title_color=c3236c&hide_rank=true&count_private=true&include_all_commits=true">
