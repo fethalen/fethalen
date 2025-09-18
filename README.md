@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Felicia. 🫶</h2>
 
-I'm a Research Software Engineer at ETH Zurich, passionate about reproducible research. I enjoy exploring different programming languages and applying them to my work.
+I'm a Research Software Engineer at ETH Zurich, passionate about reproducible research. I enjoy learning different programming languages and applying them to my work.
 
 I hold a doctoral degree in Genome Science from the University of Göttingen. My academic background spans animal evolution and cardiovascular disease, but I now focus on software development for microbiome research.
 
