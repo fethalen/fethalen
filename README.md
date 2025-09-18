@@ -1,10 +1,11 @@
 <h2 align="center">Hi there, I'm Felicia. 🫶</h2>
 
-I work as a Research Software Engineer at ETH Zürich in Zürich, Switzerland.
-I have an interest in different programming languages and greatly value reproducibility in both research and scientific software.
+I'm a Research Software Engineer at ETH Zurich, passionate about reproducible research. I enjoy exploring different programming languages and applying them to my work.
+
+I hold a doctoral degree in Genome Science from the University of Göttingen. My academic background spans animal evolution and cardiovascular disease, but I now focus on software development for microbiome research.
 
 <details>
- <summary><big><strong>💼 Selected repositories</strong></big><sub> (click to expand)</sub></summary></br>
+ <summary><big><strong>🗃️ Selected repositories</strong></big><sub> (click to expand)</sub></summary></br>
 
 [**Patchwork**](https://github.com/fethalen/Patchwork): Alignment-based mining of phylogenetic markers from whole-genome sequencing data
 
