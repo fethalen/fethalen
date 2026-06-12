@@ -1,8 +1,10 @@
-<h2 align="center">Hi there, I'm Felicia. 🫶</h2>
+<h2 align="center">Hi! I'm Felicia. 👋</h2>
 
-I'm a Research Software Engineer at ETH Zurich, passionate about reproducible research. I enjoy learning different programming languages and applying them to my work.
+I'm a research software engineer at ETH Zurich, where I develop reproducible workflows for metagenomic datasets.
 
-I hold a doctoral degree in Genome Science from the University of Göttingen. My academic background spans animal evolution and cardiovascular disease, but I now focus on software development for microbiome research.
+I have a doctoral degree in Genome Science from the University of Göttingen. 
+
+My background spans animal evolution and cardiovascular disease, and I currently work in microbiome research.
 
 <details>
  <summary><big><strong>🌱 Selected projects</strong></big><sub> (click to expand)</sub></summary></br>
